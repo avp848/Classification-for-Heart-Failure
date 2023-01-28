@@ -14,4 +14,4 @@ I built a machine learning classifier to predict if an individual would have hea
 
 ### Accuracy
 XGBoost Model - 93.7%
-\nKeras Model - 84.9%
+Keras Model - 84.9%
