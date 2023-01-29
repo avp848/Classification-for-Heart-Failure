@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction
+# Classification for Heart Failure
 ### Problem Statement
 The mission of this machine learning classification was to determine whether a patient would have heart failure, given their blood pressure, cholesterol level, chest pain, age, and several other attributes.
 
